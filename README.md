@@ -1,16 +1,191 @@
-# React + Vite
+# Kurru Pooja Sri - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my skills, projects, achievements, certifications, and professional profile as an aspiring AI & Full Stack Developer.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Visit Portfolio:**
+https://portfolio-amber-three-tcft9wvi7o.vercel.app
 
-## React Compiler
+## About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio was designed and developed to create a professional online presence and highlight my technical skills, academic achievements, certifications, and development projects.
 
-## Expanding the ESLint configuration
+The website features a clean and modern UI with smooth animations, responsive layouts, interactive project showcases, and an integrated contact form.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* Modern and responsive user interface
+* Smooth scrolling navigation
+* Interactive Hero section
+* About Me section
+* Skills & Technologies showcase
+* Project showcase with GitHub and Live Demo links
+* Achievements section
+* Certifications section
+* Contact form powered by EmailJS
+* Social media integration
+* Mobile-friendly design
+* Glassmorphism design elements
+* Framer Motion animations
+
+## Tech Stack
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+* JavaScript
+* HTML5
+* CSS3
+
+### Libraries & Tools
+
+* Framer Motion
+* React Icons
+* React Type Animation
+* EmailJS
+* Iconify
+
+### Deployment
+
+* Vercel
+
+## Portfolio Sections
+
+### Home
+
+Introduction and professional overview.
+
+### About
+
+Information about my educational background, interests, and career goals.
+
+### Skills
+
+Technical skills categorized into:
+
+* Frontend Development
+* Backend Development
+* Programming Languages
+* Development Tools
+
+### Projects
+
+#### BookNest
+
+Online bookstore platform featuring categorized book listings, search functionality, bookmarking, and responsive design.
+
+#### PetNesto
+
+Responsive pet-products e-commerce platform with category filtering and modern UI.
+
+#### My Study Vault
+
+Academic resource-sharing platform for students and faculty to manage educational resources efficiently.
+
+### Achievements
+
+* Flipkart Grid 7.0 National Semi-Finalist
+* Best AI Integration Recognition
+* Academic Excellence (CGPA: 8.86/10)
+* Full Stack Development Training
+
+### Certifications
+
+* AWS Certified AI Practitioner
+* MongoDB Certified Associate Developer – Node.js
+* Microsoft GitHub Foundations Certified
+* IT Specialist HTML & CSS
+* C Programming Certificate
+
+### Contact
+
+Visitors can connect through:
+
+* Email
+* LinkedIn
+* GitHub
+* Contact Form
+
+## Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/72072poojasri/Portfolio.git
+```
+
+### Navigate to Project
+
+```bash
+cd Portfolio
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## Project Structure
+
+```text
+src/
+├── assets/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Skills.jsx
+│   ├── Projects.jsx
+│   ├── Achievements.jsx
+│   ├── Certifications.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+├── data/
+│   └── portfolioData.js
+├── App.jsx
+└── main.jsx
+```
+
+## Future Improvements
+
+* Dark/Light Theme Toggle
+* Project Screenshots Gallery
+* Blog Section
+* Experience Timeline
+* Advanced Animations
+* Downloadable Resume Analytics
+
+## Author
+
+### Kurru Pooja Sri
+
+AI & Full Stack Developer
+
+GitHub:
+https://github.com/72072poojasri
+
+LinkedIn:
+https://www.linkedin.com/in/poojasri-k-7067142a5/
+
+## License
+
+This project is open source and available for learning, inspiration, and personal use.
+
+---
+
+Built with React, Tailwind CSS, and passion for creating impactful digital experiences.
